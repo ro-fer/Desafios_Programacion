@@ -16,6 +16,11 @@ Este es mi espacio de práctica personal con ejercicios de programación, comenz
 | [Palabra oculta](palabra_oculta/palabra_oculta.py) | Verifica si una palabra está "escondida" en otra          | ✅ Listo |
 | [Primos en un rango](primos_en_rango/primos_en_rango.py) | Muestra todos los números primos hasta un valor dado      | ✅ Listo |
 | [Sudoku](sudoku/sudoku.py) | Verifica si una solución de Sudoku es válida (filas, columnas y bloques 3x3)      | 🚧 En curso |
+| [Collatz](collatz/collatz.py) | Generar secuencia de Collatz a partir de nro ingresado por usuario     |  ✅ Listo |
+| [Cifrado Cesar](cifrado_cesar/cifrado_cesar.py) | Se ingresa una palabra y luego se devuelve codificado     |  ✅ Listo |
+| [Piedra, Papel, tijera](piedra_papel_tijera/piedra_papel_tijera.py) | Se ingresa valores del juego y se indica quien ganó    |  ✅ Listo |
+| [Calculadora Pokemon](calculadora_pokemon/calculadora_pokemon.py) | Calcula el daño de un ataque durante una batalla Pokémon.|  ✅ Listo |
+
 
 ---
 
