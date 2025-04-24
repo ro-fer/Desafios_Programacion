@@ -13,8 +13,9 @@ Este es mi espacio de práctica personal con ejercicios de programación, comenz
 | [Eliminar vocales](eliminar_vocales/eliminar_vocales.py) | Devuelve un texto sin vocales                             | ✅ Listo |
 | [Repetición máxima](repeticiones_maximas/repeticiones_maximas.py) | Encuentra el carácter que más se repite                   | ✅ Listo |
 | [Número perfecto](numero_perfecto/numero_perfecto.py) | Detecta si un número es igual a la suma de sus divisores  | ✅ Listo |
-| [Palabra oculta](palabra_oculta/palabra_oculta.py) | Verifica si una palabra está "escondida" en otra          | 🚧 En curso |
+| [Palabra oculta](palabra_oculta/palabra_oculta.py) | Verifica si una palabra está "escondida" en otra          | ✅ Listo |
 | [Primos en un rango](primos_en_rango/primos_en_rango.py) | Muestra todos los números primos hasta un valor dado      | ✅ Listo |
+| [Sudoku](sudoku/sudoku.py) | Verifica si una solución de Sudoku es válida (filas, columnas y bloques 3x3)      | 🚧 En curso |
 
 ---
 
