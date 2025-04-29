@@ -20,6 +20,7 @@ Este es mi espacio de práctica personal con ejercicios de programación, comenz
 | [Cifrado Cesar](cifrado_cesar/cifrado_cesar.py) | Se ingresa una palabra y luego se devuelve codificado     |  ✅ Listo |
 | [Piedra, Papel, tijera](piedra_papel_tijera/piedra_papel_tijera.py) | Se ingresa valores del juego y se indica quien ganó    |  ✅ Listo |
 | [Calculadora Pokemon](calculadora_pokemon/calculadora_pokemon.py) | Calcula el daño de un ataque durante una batalla Pokémon.|  ✅ Listo |
+| [ 🤖¿Dónde está el robot?](robot_posicion/robot_posicion.py) | Calcula la posición final de un **robot** que se encuentra en una cuadrícula bidimensional.|  ✅ Listo |
 
 
 ---
