@@ -21,6 +21,7 @@ Este es mi espacio de práctica personal con ejercicios de programación, comenz
 | [Piedra, Papel, tijera](piedra_papel_tijera/piedra_papel_tijera.py) | Se ingresa valores del juego y se indica quien ganó    |  ✅ Listo |
 | [Calculadora Pokemon](calculadora_pokemon/calculadora_pokemon.py) | Calcula el daño de un ataque durante una batalla Pokémon.|  ✅ Listo |
 | [ 🤖¿Dónde está el robot?](robot_posicion/robot_posicion.py) | Calcula la posición final de un **robot** que se encuentra en una cuadrícula bidimensional.|  ✅ Listo |
+| [ 📊 Análisis de Texto](analisis_texto/analisis_texto.py) | Analiza un texto y da informacion de cantidad de palabras, oraciones, etc.|  ✅ Listo |
 
 
 ---
