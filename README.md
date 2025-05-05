@@ -1,6 +1,6 @@
 # 🚀 Desafíos de Programación
 
-Este es mi espacio de práctica personal con ejercicios de programación, comenzando con **Python** 🐍 y, más adelante, retomando **C** . Aquí iré subiendo mis soluciones y progresos.
+Este es mi espacio de práctica personal con ejercicios de programación, repasando con **Python** 🐍 y, más adelante, retomando **C** . Aquí iré subiendo mis soluciones y progresos.
 
 ---
 
